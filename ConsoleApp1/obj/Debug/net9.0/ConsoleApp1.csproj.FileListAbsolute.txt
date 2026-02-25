@@ -1,0 +1,5 @@
+C:\Users\RichardPavelek\Documents\GitHub\agregace-a-kompozice-RichardPavelek\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RichardPavelek\Documents\GitHub\agregace-a-kompozice-RichardPavelek\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\RichardPavelek\Documents\GitHub\agregace-a-kompozice-RichardPavelek\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\RichardPavelek\Documents\GitHub\agregace-a-kompozice-RichardPavelek\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\RichardPavelek\Documents\GitHub\agregace-a-kompozice-RichardPavelek\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.sourcelink.json
